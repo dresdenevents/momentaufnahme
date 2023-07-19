@@ -62,7 +62,9 @@ class Home extends StatelessWidget {
             'Konferenz, wir haben genau das, was Sie brauchen, um Ihr Event unvergesslich zu machen. '
             'Entdecken Sie die Vielfalt unserer Angebote, vom Fotostation-Service über Karaokestationen '
             'bis hin zu umfassender Licht- und Soundtechnik.',
-        descriptionCTA: 'Mehr erfahren');
+        descriptionCTA: 'Mehr erfahren',
+      backgroundImage: 'assets/images/fotobox.png'
+    );
   }
 
   Widget mainContent() {
